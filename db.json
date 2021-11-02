@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "김상환",
+      "username": "Sang Kim",
+      "workOutId": "asd123"
+    },
+    {
+      "name": "이선호",
+      "username": "Sunho Lee",
+      "workOutId": ""
+    },
+    {
+      "name": "김준영",
+      "username": "Junyyy",
+      "workOutId": ""
+    }
+  ]
+}
